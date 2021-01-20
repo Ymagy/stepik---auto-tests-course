@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
-homework
+homework folder
 https://stepik.org/course/575/syllabus
